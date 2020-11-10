@@ -22,7 +22,7 @@ yarn && yarn start
 ```
 
 ## Payu (For Indian users)
-Donate 500/- https://pmny.in/KIAlqAqI5a2c
+Donate 300/- https://pmny.in/KIAlqAqI5a2c
 Donate 500/- https://pmny.in/ZIwp6qdu34yE
 Donate 1000/- https://pmny.in/JInJSHapp6DL
 
