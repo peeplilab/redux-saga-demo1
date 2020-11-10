@@ -22,6 +22,12 @@ Clone repo and run:
 ```
 yarn && yarn start
 ```
-## Paypal Link
+
+## Payu (For Indian users)
+Donate 500/- https://pmny.in/KIAlqAqI5a2c
+Donate 500/- https://pmny.in/ZIwp6qdu34yE
+Donate 1000/- https://pmny.in/JInJSHapp6DL
+
+## Paypal Link (For international users)
 
 paypal.me/bombayCodeCamp
