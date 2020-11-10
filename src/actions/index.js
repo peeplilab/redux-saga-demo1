@@ -8,16 +8,22 @@ export function setUsers(users) {
   };
 }
 
-//Sagas
 export function getUsersSaga() {
   return {
     type: GET_USERS_SAGA
   };
 }
 
-export function getPostComponentData(data) {
+export function getPostComponentData(title, body) {
   return {
     type: GET_POST_COMPONENT_DATA,
-    data: data
+    title,
+    body
+  };
+}
+export function setText(newText) {
+  return {
+    type: 'SET_NEW_TEXT',
+    newText
   };
 }

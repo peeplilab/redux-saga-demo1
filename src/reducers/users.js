@@ -9,6 +9,11 @@ export default function setBrowserInfo(state = initialState, action) {
         ...state,
         users: action.users
       };
+    case 'SET_NEW_TEXT': 
+    return {
+      ...state,
+      newText:action.newText    
+    }
     default:
       return state;
   }

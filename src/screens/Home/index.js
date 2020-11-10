@@ -57,13 +57,14 @@ class Home extends Component {
           )
         }
         <Button color="primary"
-          color="teal"
+          variant="contained"
           onClick={this.handleBtnOnClick}
+          style={{margin: 5}}
         >
           Load Users
         </Button>
         <Link to="post">
-          <Button color="primary" variant="contained">Post Component</Button>
+          <Button color="primary" variant="contained">Goto Post Component</Button>
         </Link>
       </div>
     );
